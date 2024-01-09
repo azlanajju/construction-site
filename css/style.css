@@ -218,6 +218,9 @@ span{
     .header-carousel .owl-nav {
         left: 25px;
     }
+        .mobileText{
+        font-size: 18px;
+    }
 }
 
 .breadcrumb-item + .breadcrumb-item::before {
